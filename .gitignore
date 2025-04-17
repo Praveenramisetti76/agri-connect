@@ -61,3 +61,4 @@ lerna-debug.log*
 .env.production.local
 .cache
 dist
+.qodo
